@@ -1,0 +1,13 @@
+{
+  "name": "vercel-test-sharp-svg-fonts",
+  "version": "0.1.0",
+  "description": "Testing issue",
+  "main": "index.js",
+  "author": "Lionel Tzatzkin <elrumordelaluz@hotmail.com> (https://elrumordelaluz.com/)",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "node-fetch": "2.6.1",
+    "sharp": "0.28.1"
+  }
+}
