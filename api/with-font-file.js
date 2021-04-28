@@ -16,7 +16,7 @@ export default async function handler(req, res) {
           <style type="text/css">
             @font-face {
               font-family: Arial Bold;
-              src: './fonts/Arial Bold.ttf'';
+              src: './fonts/Arial Bold.ttf';
             }
           </style>
           <text x="0" y="0" font-family="Arial Bold" font-size="48" font-weight="bold" letter-spacing="-0.7">
